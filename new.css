@@ -102,3 +102,22 @@ body{
     border:1px solid gray;
     width: 100%;
 }
+
+
+
+
+@media screen and (min-width:100opx){
+    .Itemcontainer> span {
+        font-size: 60px;
+        margin-left: 5%;
+    }
+}
+
+@media screen and (min-width: 850px){
+    .Itemcontainer> span {
+        font-size: 55px;
+        margin-left: 38%;
+        position: absolute;
+        margin-top: 8%;
+    }
+}
