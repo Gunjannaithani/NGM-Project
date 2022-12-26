@@ -96,3 +96,9 @@ body{
     margin-left: 2%;
     font-family: fantasy;
 }
+
+
+#footercontainer{
+    border:1px solid gray;
+    width: 100%;
+}
